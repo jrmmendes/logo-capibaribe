@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="42.59845mm"
+   height="42.597996mm"
+   viewBox="0 0 42.59845 42.597997"
+   version="1.1"
+   id="svg1474"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/jrmmendes/Work/LISO/Projetos/logo-capibaribe/png/icon.png"
+   inkscape:export-xdpi="1192.53"
+   inkscape:export-ydpi="1192.53">
+  <defs
+     id="defs1468" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="95.464145"
+     inkscape:cy="98.697573"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,161.00201"
+       id="guide864"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="42.59845,0"
+       orientation="-161.0003,0"
+       id="guide866"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="42.59845,42.597996"
+       orientation="0,-161.00201"
+       id="guide868"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,42.597996"
+       orientation="161.0003,0"
+       id="guide870"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1471">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-272.37537,-72.104203)">
+    <rect
+       style="opacity:1;fill:#e00000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect876"
+       width="42.59845"
+       height="42.597996"
+       x="272.37537"
+       y="72.104202"
+       ry="0" />
+    <rect
+       ry="18.759964"
+       y="74.643234"
+       x="274.91443"
+       height="37.519928"
+       width="37.520329"
+       id="rect878"
+       style="opacity:1;fill:#c90000;fill-opacity:1;stroke:none;stroke-width:0.35231638;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26017612;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 299.53541,85.186963 -5.27251,13.627051 12.04935,0.500082 -24.48842,0.275267 5.10112,-4.147922 z"
+       id="path1302"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
